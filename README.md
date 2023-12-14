@@ -1,4 +1,4 @@
-# HTMX-Bun Login Project
+# HTMX-Bun Login
 
 ## Introduction
 

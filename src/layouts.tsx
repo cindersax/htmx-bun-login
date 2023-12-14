@@ -4,7 +4,7 @@ export const BaseLayout = ({ children }: any) => {
       <head>
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <title>My page</title>
+        <title>Demo login</title>
         <script src="https://unpkg.com/htmx.org@1.9.9"></script>
       </head>
       <body id="main">{children}</body>
