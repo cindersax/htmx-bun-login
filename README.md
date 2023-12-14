@@ -18,7 +18,7 @@ Welcome to the HTMX-Bun Login Project! This project demonstrates how to build a 
 
 ## Setup and Installation
 
-1. **Clone the Repository**: `git clone [repository-link]`.
+1. **Clone the Repository**: `git clone https://github.com/cindersax/htmx-bun-login`.
 2. **Install Dependencies**: Run `bun install` to install the required packages.
 3. **Starting the Server**:
    - For development: Run `bun run dev` for a hot-reload development server.
